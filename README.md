@@ -46,4 +46,3 @@ I enjoy turning designs into functional experiences using modern frontend fundam
 ---
 
 ### 📫 Connect
-- GitHub: **@jurfac**
