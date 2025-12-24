@@ -1,15 +1,15 @@
 ## Hi, I’m Jurfac 👋
 
-Frontend Web Developer focused on building clean, responsive, and user-friendly web interfaces.  
-I enjoy turning designs into functional experiences using modern frontend fundamentals.
+I’m a Frontend Web Developer focused on building clean, responsive, and user-friendly web interfaces.  
+I enjoy turning designs into functional web experiences and continuously improving through hands-on projects.
 
 ---
 
 ### 🧑‍💻 What I Do
-- Build responsive and accessible web pages  
+- Build responsive and accessible websites  
 - Convert UI designs into clean HTML & CSS  
 - Add interactivity with JavaScript  
-- Focus on layout, usability, and clarity  
+- Focus on usability, layout, and performance  
 
 ---
 
@@ -22,7 +22,7 @@ I enjoy turning designs into functional experiences using modern frontend fundam
 
 ---
 
-### 🧰 Tools I Use
+### 🧰 Tools & Workflow
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -34,14 +34,14 @@ I enjoy turning designs into functional experiences using modern frontend fundam
 ### 🌱 Currently Learning
 - Advanced JavaScript concepts  
 - Frontend best practices  
-- Clean UI implementation  
+- Modern UI patterns  
 
 ---
 
 ### 🎯 Goals
-- Build strong frontend projects  
+- Build a strong frontend portfolio  
 - Grow into a professional frontend developer  
-- Collaborate on real-world projects  
+- Contribute to real-world projects  
 
 ---
 
