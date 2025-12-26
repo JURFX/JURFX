@@ -1,4 +1,4 @@
-## Hi, I’m Jurfac 👋
+## Hi, I’m Jaafar umar👋
 
 I’m a Frontend Web Developer focused on building clean, responsive, and user-friendly web interfaces.  
 I enjoy turning designs into functional web experiences and continuously improving through hands-on projects.
